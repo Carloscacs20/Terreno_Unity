@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFF8474-4441-39AE-2C52-E5104340BE3E}|Assembly-CSharp.csproj|c:\\users\\usuario final\\desktop\\deber desarrollo videojuegos\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFF8474-4441-39AE-2C52-E5104340BE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFF8474-4441-39AE-2C52-E5104340BE3E}|Assembly-CSharp.csproj|C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\assets\\mousecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFF8474-4441-39AE-2C52-E5104340BE3E}|Assembly-CSharp.csproj|solutionrelative:assets\\mousecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseCamera.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Assets\\MouseCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\MouseCamera.cs",
+              "ToolTip": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Assets\\MouseCamera.cs",
+              "RelativeToolTip": "Assets\\MouseCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:11:04.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:58:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Lit.shader",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-03-26T18:52:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TerrainLit.shader",
+              "DocumentMoniker": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
+              "ToolTip": "C:\\Users\\USUARIO FINAL\\Desktop\\Deber Desarrollo Videojuegos\\Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0c5162adfb45\\Shaders\\Terrain\\TerrainLit.shader",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-03-26T16:50:32.755Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
