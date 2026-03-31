@@ -14,5 +14,9 @@ Moverse	WASD
 Saltar	SPACE
 Cámara	Mouse
 
+Cómo ejecutar
+Clonar el repositorio
+Abrir el proyecto en Unity Hub
+Ejecutar la escena principal
 
 
